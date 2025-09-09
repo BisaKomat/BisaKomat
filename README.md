@@ -12,3 +12,16 @@ I'm **Kholid**, a passionate web developer focusing on building responsive and u
 
 ##### connect
 ![https://www.instagram.com/lkkhldrmdhni?igsh=eHZ3NjBwdHp1cWN5](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/kholid-romdhoni-0b662a347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+<img src="https://raw.githubusercontent.com/BisaKomat/BisaKomat/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BisaKomat/BisaKomat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BisaKomat/BisaKomat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BisaKomat/BisaKomat/output/pacman-contribution-graph.svg">
+</picture>
+
+###
